@@ -39,3 +39,7 @@ square_say <- function(x){
 # devtools::load_all(".")
 
 # usethis:: use_github_action("check-standard")
+
+# usethis::use_readme_md()
+
+# pkgdown::build_site()
