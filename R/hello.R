@@ -37,3 +37,5 @@ square_say <- function(x){
 }
 
 # devtools::load_all(".")
+
+# usethis:: use_github_action("check-standard")
